@@ -5,7 +5,6 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-
 <h3 align="center">Passionate Software Engineer Student | Exploring the Boundless World of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanthaerandaka&label=Profile%20views&color=0e75b6&style=flat" alt="amanthaerandaka" /> </p>
