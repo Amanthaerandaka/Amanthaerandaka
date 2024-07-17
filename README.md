@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amantha Erandaka</h1>
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
 
 <h3 align="center">Passionate Software Engineer Student | Exploring the Boundless World of Technology</h3>
 
