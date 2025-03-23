@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Software Engineering Degree**
 
-- 👨‍💻 All of my projects are available at [https://amanthaerandaka.github.io/Amantha.github.io/](https://amanthaerandaka.github.io/Amantha.github.io/)
+- 👨‍💻 All of my projects are available at [My portfolio](https://amanthaerandaka.github.io/my_portfolio/)
 
 - 💬 Ask me about **HTML,CSS,JAVA**
 
