@@ -17,13 +17,13 @@
 
 - 📫 How to reach me **amantha.erandaka@gmail.com**
 - ---
+<!-- 
 <h1 align="center" >My Statistics</h1>
 
-<!-- වැඩ කරපු Streak Card එක පමණක් මෙතැන තබා ඇත -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanthaerandaka&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
+-->
 ---
 
 <h3 align="left">Connect with me:</h3>
